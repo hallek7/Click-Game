@@ -1,62 +1,74 @@
 const data = [
   {
     animal: "bunny",
-    image: "/images/bunny.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/bunny.jpg?raw=true"
   },
 
   {
     animal: "cat",
-    image: "/images/cat_eating.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/cat_eating.jpg?raw=true"
   },
 
   {
     animal: "dog",
-    image: "/images/dogs.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/dogs.jpg?raw=true"
   },
 
   {
     animal: "dolphin",
-    image: "/images/Dolphin.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/Dolphin.jpg?raw=true"
   },
 
   {
     animal: "giraffe",
-    image: "/images/giraffe.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/giraffe.jpg?raw=true"
   },
 
   {
     animal: "goat",
-    image: "/images/goat.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/Public/images/goat.jpg?raw=true"
   },
 
   {
     animal: "happyfeet",
-    image: "/images/Happy-Feet.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/Public/images/Happy-Feet.jpg?raw=true"
   },
 
   {
     animal: "lion",
-    image: "/images/lion.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/lion.jpg?raw=true"
   },
 
   {
     animal: "meerkat",
-    image: "/images/meerkat-Play.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/meerkat-Play.jpg?raw=true"
   },
 
   {
     animal: "monkey",
-    image: "/images/monkeyPhone.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/monkeyPhone.jpg?raw=true"
   },
 
   {
     animal: "ostrich",
-    image: "/images/Ostrich.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/Public/images/Ostrich.jpg?raw=true"
   },
 
   {
     animal: "owl",
-    image: "/images/owl.jpg"
+    image:
+      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/owl.jpg?raw=true"
   }
 ];
 
