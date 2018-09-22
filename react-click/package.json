@@ -2,6 +2,8 @@
   "name": "react-click",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/hallek7/Click-Game",
+
   "dependencies": {
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
