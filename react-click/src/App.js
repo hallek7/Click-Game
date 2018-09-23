@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import animal from "./animals.js";
+import animal from "./animals.json";
 import Wrapper from "./components/Wrapper";
 import Nav from "./components/Nav";
 import Title from "./components/Title";
