@@ -58,5 +58,18 @@
   {
     "animal": "owl",
     "image": "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/owl.jpg?raw=true"
+  }, 
+
+  {
+    "animal": "panda",
+    "image": "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/panda.jpg?raw=true"
+  }, 
+
+  {
+    "animal": "bear",
+     "image":
+     "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/bear.jpg?raw=true"
+    
   }
-]
+
+ ]
