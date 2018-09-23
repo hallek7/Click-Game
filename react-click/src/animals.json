@@ -70,6 +70,13 @@
      "image":
      "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/bear.jpg?raw=true"
     
-  }
+  }, 
 
+  {
+    "animal": "silverBack",
+     "image":
+
+  "https://github.com/hallek7/Click-Game/blob/master/react-click/public/images/silverBack.jpg?raw=true"
+  }
+  
  ]
